@@ -162,23 +162,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</guid>
-            <title>DIV块级元素/span行内元素</title>
-            <link>http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</link>
-            <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
-            <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
-            <category term="div" scheme="http://example.com/tags/div/" />
-            <pubDate>Fri, 20 Aug 2021 17:02:32 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;div块级元素span行内元素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#div块级元素span行内元素&#34;&gt;#&lt;/a&gt; DIV 块级元素 /span 行内元素&lt;/h2&gt;
-&lt;p&gt;div 单词全称是 division，是指&lt;strong&gt;有界限和归属权&lt;/strong&gt;的区域&lt;/p&gt;
-&lt;p&gt;好比你家的房子的空间，隔壁老王是不能住进了的，是私有领域。就算我家再大，空出来的地方有很多，可以住 100 个人也不能随便让别人住进来。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hjRgJI&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hjRgJI.png&#34; alt=&#34;hjRgJI.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;span，是指&lt;strong&gt;连续贴在一起的公共&lt;/strong&gt;区域&lt;/p&gt;
-&lt;p&gt;好比是地铁里的空间。地铁是很挤的，经常是人贴人的。即是你不喜欢和别人贴得太近，那也是要贴在一起的。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hjR4OS&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hjR4OS.png&#34; alt=&#34;hjR4OS.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2021/08/20/css/</guid>
             <title>CSS概念、作用和目的</title>
             <link>http://example.com/2021/08/20/css/</link>
@@ -255,6 +238,23 @@
 &lt;p&gt;基本语法格式：&lt;/p&gt;
 &lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;父选择器 子选择器&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;... &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
 &lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;table tr td .wyx&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;red&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</guid>
+            <title>DIV块级元素/span行内元素</title>
+            <link>http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</link>
+            <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
+            <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
+            <category term="div" scheme="http://example.com/tags/div/" />
+            <pubDate>Fri, 20 Aug 2021 17:02:32 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;div块级元素span行内元素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#div块级元素span行内元素&#34;&gt;#&lt;/a&gt; DIV 块级元素 /span 行内元素&lt;/h2&gt;
+&lt;p&gt;div 单词全称是 division，是指&lt;strong&gt;有界限和归属权&lt;/strong&gt;的区域&lt;/p&gt;
+&lt;p&gt;好比你家的房子的空间，隔壁老王是不能住进了的，是私有领域。就算我家再大，空出来的地方有很多，可以住 100 个人也不能随便让别人住进来。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hjRgJI&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hjRgJI.png&#34; alt=&#34;hjRgJI.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;span，是指&lt;strong&gt;连续贴在一起的公共&lt;/strong&gt;区域&lt;/p&gt;
+&lt;p&gt;好比是地铁里的空间。地铁是很挤的，经常是人贴人的。即是你不喜欢和别人贴得太近，那也是要贴在一起的。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hjR4OS&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hjR4OS.png&#34; alt=&#34;hjR4OS.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
         </item>
     </channel>
 </rss>
