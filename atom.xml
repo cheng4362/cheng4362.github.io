@@ -139,6 +139,26 @@
         <updated>2021-09-17T09:00:04.000Z</updated>
     </entry>
     <entry>
+        <id>http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</id>
+        <title>CSS 背景样式和文本样式</title>
+        <link rel="alternate" href="http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
+        <content type="html">&lt;h2 id=&#34;css-背景样式和文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景样式和文本样式&#34;&gt;#&lt;/a&gt; CSS 背景样式和文本样式&lt;/h2&gt;
+&lt;h3 id=&#34;css-背景属性background&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景属性background&#34;&gt;#&lt;/a&gt; CSS 背景属性（background）&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2uuD&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2uuD.png&#34; alt=&#34;hj2uuD.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;css-文本属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-文本属性&#34;&gt;#&lt;/a&gt; CSS 文本属性&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2D5n&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2D5n.png&#34; alt=&#34;hj2D5n.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;css3-新增常用标签简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css3-新增常用标签简介&#34;&gt;#&lt;/a&gt; CSS3 新增常用标签简介&lt;/h3&gt;
+&lt;p&gt;​	CSS3 是 CSS 技术的升级版本，CSS3 语言开发是朝着&lt;strong&gt;模块化发展&lt;/strong&gt;；网络浏览器也还将继续支持 CSS2。&lt;strong&gt;CSS3 主要的影响是将可以使用新的可用的选择器和属性&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;・圆角边框：border-radius&lt;/p&gt;
+&lt;p&gt;・边框阴影：box-shadow&lt;/p&gt;
+&lt;p&gt;・背景图片的尺寸：background-size&lt;/p&gt;
+&lt;p&gt;・文本阴影：text-shadow&lt;/p&gt;
+</content>
+        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
+        <updated>2021-08-20T09:02:32.000Z</updated>
+    </entry>
+    <entry>
         <id>http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</id>
         <title>DIV块级元素/span行内元素</title>
         <link rel="alternate" href="http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/"/>
@@ -231,26 +251,6 @@
         <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
         <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
         <category term="css" scheme="http://example.com/tags/css/" />
-        <updated>2021-08-20T09:02:32.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</id>
-        <title>CSS 背景样式和文本样式</title>
-        <link rel="alternate" href="http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
-        <content type="html">&lt;h2 id=&#34;css-背景样式和文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景样式和文本样式&#34;&gt;#&lt;/a&gt; CSS 背景样式和文本样式&lt;/h2&gt;
-&lt;h3 id=&#34;css-背景属性background&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景属性background&#34;&gt;#&lt;/a&gt; CSS 背景属性（background）&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2uuD&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2uuD.png&#34; alt=&#34;hj2uuD.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;css-文本属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-文本属性&#34;&gt;#&lt;/a&gt; CSS 文本属性&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2D5n&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2D5n.png&#34; alt=&#34;hj2D5n.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;css3-新增常用标签简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css3-新增常用标签简介&#34;&gt;#&lt;/a&gt; CSS3 新增常用标签简介&lt;/h3&gt;
-&lt;p&gt;​	CSS3 是 CSS 技术的升级版本，CSS3 语言开发是朝着&lt;strong&gt;模块化发展&lt;/strong&gt;；网络浏览器也还将继续支持 CSS2。&lt;strong&gt;CSS3 主要的影响是将可以使用新的可用的选择器和属性&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;・圆角边框：border-radius&lt;/p&gt;
-&lt;p&gt;・边框阴影：box-shadow&lt;/p&gt;
-&lt;p&gt;・背景图片的尺寸：background-size&lt;/p&gt;
-&lt;p&gt;・文本阴影：text-shadow&lt;/p&gt;
-</content>
-        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
-        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
         <updated>2021-08-20T09:02:32.000Z</updated>
     </entry>
 </feed>
