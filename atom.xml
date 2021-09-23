@@ -8,7 +8,7 @@
     <author>
       <name>阿辰</name>
     </author>
-    <updated>2021-09-22T04:00:04.000Z</updated>
+    <updated>2021-09-23T11:00:04.000Z</updated>
     <category term="前段" />
     <category term="JavaScript" />
     <category term="HTML" />
@@ -16,6 +16,624 @@
     <category term="Python" />
     <category term="markdown" />
     <category term="笔记" />
+    <entry>
+        <id>http://example.com/2021/09/23/%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B7/</id>
+        <title>试题练习</title>
+        <link rel="alternate" href="http://example.com/2021/09/23/%E6%A8%A1%E6%8B%9F%E8%AF%95%E5%8D%B7/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;第一部分笔试100分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一部分笔试100分&#34;&gt;#&lt;/a&gt; 第一部分：笔试（100 分）&lt;/h1&gt;
+&lt;h2 id=&#34;一-选择题共57分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-选择题共57分&#34;&gt;#&lt;/a&gt; 一、选择题（共 57 分）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;python 是 ( )。&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;低级语言&lt;/li&gt;
+&lt;li&gt;通用语言&lt;/li&gt;
+&lt;li&gt;机器语言&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;高级语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;下面哪个不是 Python 合法的标识符 ( )&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;int32&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;40XL&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;self&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;__name__&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;关于字符串下列说法错误的是 ( ) &lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;字符应该视为长度为 1 的字符串&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;字符串以 \0 标志字符串的结束&lt;/li&gt;
+&lt;li&gt;既可以用单引号，也可以用双引号创建字符串&lt;/li&gt;
+&lt;li&gt;在三引号字符串中可以包含换行回车等特殊字符&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;有下面的程序段&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; k &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;and&lt;/span&gt; k &lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; k &lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; k &lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; k &lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;其中 k 取那组值时 x=3 ( )&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;3,4,5&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;3,4&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;5,6,7&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;4,5&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;定义类如下：&lt;br /&gt;
+class hello(   ):&lt;br /&gt;
+defshowinfo(sef):&lt;br /&gt;
+print(self.x)&lt;br /&gt;
+ 下面描述正确的是 ( )（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;该类不可实例化&lt;/li&gt;
+&lt;li&gt;该类可以实例化&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;在 pycharm 工具中会出现语法错误，说 self 没有定义&lt;/li&gt;
+&lt;li&gt;该类可以实例化，并且能正常通过对象调用 showinfo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;以下聚合函数求数据平均值的是 ( )。（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;MX&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SUM&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;COUNT&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;AVG&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;SQL 语句中的条件用以下哪一项表达 ( )。（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;THEN&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WHILE&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;WHERE&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IF&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;当你要对文字图层执行滤镜效果时，首先应当做什么：（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;选择 “图层 - 栅格化文字” 命令&lt;/li&gt;
+&lt;li&gt;直接在滤镜菜单下选择一个滤镜命令&lt;/li&gt;
+&lt;li&gt;确认文字图层和其他图层没有链接&lt;/li&gt;
+&lt;li&gt;使得这些文字变成选择状态，然后在滤镜菜单下选择一个滤镜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;命令图象分辨率的单位是：&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;dpi&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ppi&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lpi&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pixel令&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;某同学尝试用 Photoshop 合成相片，为便于以后反复修改，应当将文件保存的类型是（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;psd格式&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gif格式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bmp格式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jpg格式&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;在 Photoshop 中当我们使用画笔工具时，按什么键可以对画笔的图标进行切换？（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;Ctrl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Alt&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;Tab&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CapsLock&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;下面哪个色彩调整命令可提供最精确的调整：（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;色阶&lt;/li&gt;
+&lt;li&gt;亮度 / 对比度&lt;/li&gt;
+&lt;li&gt;曲线&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;色彩平衡&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;下列哪个命令用来调整色偏：（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;色调均化&lt;/li&gt;
+&lt;li&gt;阈值&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;色彩平衡&lt;/li&gt;
+&lt;li&gt;亮度 / 对比度	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;下列哪个色彩模式的图象不能执行可选颜色命令 ()。(多选)&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;lab模式&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rgb模式&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;cmyk模式&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;多通道模式&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;下列 Python 语句正确的是 (多选)&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;min=xifx&amp;lt;yelsey&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;max=x&amp;gt;y?x:y&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;if(x&amp;gt;y):print(x)&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;whileTrue:pss。&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;以下不是 python 中的关键字（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;raise&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;swith&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;import&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;finl&lt;/code&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;在下面是 html5 新增的元素的是？（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;li&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;iframe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;charset&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;section&lt;/code&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;在 HTML 中，要定义一个空链接使用的标记是？（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;&amp;lt;a href=”#”&amp;gt;&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;a href=”?”&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;a href=”@”&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;a href=”!”&amp;gt;&lt;/code&gt; 	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;下面可以建立层的 HTML 标签的是（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;&amp;lt;div&amp;gt;标签&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;&amp;lt;span&amp;gt;标签&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;&amp;lt;iframe&amp;gt;标签&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;&amp;lt;table&amp;gt;标签&lt;/code&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;下列哪些列类型是数值型的数据 ( )。（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;DOUBLE&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;INT&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SET&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;FLOAT&lt;/code&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;以下说法中，错误的是 ( )。（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;Select 查询时可以使用多个字段对结果进行分组&lt;/li&gt;
+&lt;li&gt;Select 后面使用表示查询所有的列&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;SQL 语言共分为四大类&lt;/li&gt;
+&lt;li&gt;条件 “IN (20,30)” 表示年龄在 20 到 30 之间	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;下面对 count ()，index (),find (   ) 方法描述错误的是（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;count ( ) 方法用于统计字符串里某个字符出现的次数&lt;/li&gt;
+&lt;li&gt;find ( ) 方法检测字符串中是否包含子字符串 str 如果包含子字符串返回开始的索引值，否则会报一个异常&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;index ( ) 方法检测字符串中是否包含子字符串 str，如果 str 不在返回 - 1&lt;/li&gt;
+&lt;li&gt;以上都错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;以下双方关系不属于一对多关系的有：( )。（单选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;老师 — 学生&lt;/li&gt;
+&lt;li&gt;用户 — 银行卡&lt;/li&gt;
+&lt;li&gt;学科 — 课程&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;学生 — 语文成绩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&#34;quiz multi&#34;&gt;
+&lt;p&gt;函数如下&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;chanageList&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token builtin&#34;&gt;list&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token builtin&#34;&gt;list&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;append&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;end&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;list&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token builtin&#34;&gt;list&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 调用&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;strs &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;1&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;2&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chanageList&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;strs&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;strs&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; strs&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;下面对 strs 和 list 的值输出正确的是（多选）&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;&lt;code&gt;strs[&#39;1&#39;,&#39;2&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;list[&#39;1&#39;,&#39;2&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;list[&#39;1&#39;,&#39;2&#39;,’end’]&lt;/code&gt; &lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;&lt;code&gt;strs[&#39;1&#39;,&#39;2&#39;,’end’]&lt;/code&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;二-简答题共43分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-简答题共43分&#34;&gt;#&lt;/a&gt; 二、简答题（共 43 分）&lt;/h2&gt;
+&lt;p&gt;1.（5 分）请简述一下什么是 CSS&lt;br /&gt;
+ 答案：&lt;br /&gt;
+2.（5 分）请简述你对面向对象的了解？&lt;br /&gt;
+答案：&lt;br /&gt;
+3.（5 分）请简述什么是 SQL？&lt;br /&gt;
+答案：&lt;br /&gt;
+4.（8 分）请分别解释 AUT0_INCREMENT、默认值和 NULL 值的用途。&lt;br /&gt;
+答案：&lt;br /&gt;
+5.（8 分）数据库设计中，多对多一般如何处理？&lt;br /&gt;
+答案：&lt;br /&gt;
+6.（12 分）请用 Python 的递归实现从 1 到 100 的累加。&lt;br /&gt;
+答案：&lt;/p&gt;
+&lt;h1 id=&#34;第二部分机试100分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二部分机试100分&#34;&gt;#&lt;/a&gt; 第二部分：机试（100 分）&lt;/h1&gt;
+&lt;h2 id=&#34;一-根据题目描述和需要实现mysql的整体功能50分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-根据题目描述和需要实现mysql的整体功能50分&#34;&gt;#&lt;/a&gt; 一、根据题目描述和需要，实现 Mysql 的整体功能（50 分）&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 题目描述：某学生管理系统需要实现数据的存储，请根据具体要求设计并创建表。&lt;br /&gt;
+数据库一共有五个表:&lt;br /&gt;
+ &lt;code&gt;Class&lt;/code&gt;  (班级表),  &lt;code&gt;Student&lt;/code&gt;  (学生表), &lt;code&gt;Course&lt;/code&gt;  (课程表), &lt;code&gt;Teacher&lt;/code&gt;  (老师表), &lt;code&gt;Score&lt;/code&gt;  (成绩表)&lt;/strong&gt;&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;表的结构如下：&lt;/summary&gt;&lt;div&gt;
+&lt;div class=&#34;note info no-icon&#34;&gt;
+&lt;p&gt;Class（班级表）&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;列名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;约束&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;classid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;主键，自增&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;班级 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Caption&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Varchar(25)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;班级名称&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note info no-icon&#34;&gt;
+&lt;p&gt;Student（学生表）&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;列名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;约束&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Char(6)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;主键&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;学号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;SName&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Varchar（20）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;姓名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sex&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Varchar(2)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;性别&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Classid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;班级 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note info no-icon&#34;&gt;
+&lt;p&gt;Teacher（老师表）&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;列名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;约束&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Tid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;主键，自增&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;老师 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Tname&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Varchar（20）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;老师姓名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note info no-icon&#34;&gt;
+&lt;p&gt;Course（课程表）&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;列名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;约束&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Courseid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Char(3)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;主键&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;课程编号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Cname&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Varchar(30)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;teacherid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;授课老师 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note info no-icon&#34;&gt;
+&lt;p&gt;Score（成绩表）&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;列名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;约束&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;主键，自增&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;成绩 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Stuid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Char(6)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空，外键&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;学号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Courseid&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空，外键&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科目 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;StuScore&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Int&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非空&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;学号&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;录入数据&lt;/summary&gt;&lt;div&gt;
+&lt;div class=&#34;note warning no-icon&#34;&gt;
+&lt;p&gt;Class (班级表)&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Caption&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一年级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;二年级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;三年级&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning no-icon&#34;&gt;
+&lt;p&gt;Student (学生表)&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Sid&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Sname&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Sex&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Classid&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00001&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;钢蛋&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;女&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一年级 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00002&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;富贵&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;女&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一年级 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00003&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;翠花&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;男&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;二年级 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning no-icon&#34;&gt;
+&lt;p&gt;Teacher (老师表)&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Tname&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;翠娥&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大牛&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning no-icon&#34;&gt;
+&lt;p&gt;Course (课程表)&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Courseid&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Cname&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;teacherid&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;生物&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大牛 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;体育&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大牛 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;物理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;翠鹅 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Python&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;翠鹅 id&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning no-icon&#34;&gt;
+&lt;p&gt;Score (成绩表)&lt;/p&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Stuid&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Courseid&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;StuScore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00001&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00002&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;52&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00003&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00001&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;94&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00002&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;47&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00003&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00001&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;76&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00002&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;N00003&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;C04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;题目&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;1、查询课程平均分从高到低显示（现实任课老师）；（5 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;SELECT t.Tname,AVG(sc.StuScore) FROM score sc INNER JOIN course c ON sc.Courseid = c.Courseid&lt;br /&gt;
+INNER JOIN teacher t ON c.teacherid = t.Tid&lt;br /&gt;
+GROUP BY sc.Courseid ORDER BY AVG(sc.StuScore) DESC&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;2、查询每门课程被选修的学生数；（5 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;SELECT *,COUNT(Stuid) FROM score GROUP BY Courseid;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;3、查询 “C04” 课程分数小于 60，按分数降序排列的同学学号；（10 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;SELECT * FROM score WHERE Courseid = &#39;C04&#39; AND StuScore &amp;lt; 60 ORDER BY StuScore DESC;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;4、查询至少有一门课与学号为 “N00001” 的同学所学相同的同学的学号和姓名（10 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;SELECT s.Sid, s.SName FROM student s INNER JOIN score sc ON s.Sid = sc.Stuid&lt;br /&gt;
+WHERE sc.Courseid IN (SELECT Courseid FROM score WHERE Stuid = &#39;N00001&#39;)&lt;br /&gt;
+GROUP BY S.Sid;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;5、按各科平均成绩从低到高和及格率的百分数从高到低顺序；（10 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;SELECT sc.Courseid,ROUND(AVG(StuScore),2),&lt;br /&gt;
+(SUM (CASE WHEN StuScore BETWEEN 60 AND 100 THEN 1 ELSE 0 END)/COUNT (*))*100||&#39;%&#39; 及格率&lt;br /&gt;
+ FROM score sc&lt;br /&gt;
+GROUP BY sc.Courseid;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;二-根据题目功能需求详细描述实现python功能50分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-根据题目功能需求详细描述实现python功能50分&#34;&gt;#&lt;/a&gt; 二、根据题目功能需求详细描述，实现 Python 功能（50 分）&lt;/h2&gt;
+&lt;p&gt;1、编写程序，用 * 打印一个如下所示的矩形，将测试结果截图。（15 分）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.bmp.ovh/imgs/2021/09/de87c1d98503f30a.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2、随机点名器：有 10 位同学，随机选择 n 位（n 由键盘输入），选择的同学不可重复。将测试结果截图。（15 分）&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;&lt;/summary&gt;&lt;div&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; random&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 随机点名器：有 10 位同学，随机选择 n 位（n 由键盘输入），选择的同学不可重复。将测试结果截图。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;stu_list &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;张三&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;李四&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;王五&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;赵六&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;小红&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;小明&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;小白&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;大白&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;小张&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;小李&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 创建新列表用于存储被点到名的学生&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;dm_stu &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;uers &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token builtin&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token builtin&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;请输入点名人数：&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 通过循环生成随机数的数量&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;token keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;token builtin&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;uers&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 生成随机数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    ran &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; random&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;randint&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token builtin&#34;&gt;len&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;stu_list&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 通过随机数去除学生列表里面获取对应的学生名字，并且把该学生放到新的列表里面&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    dm_stu&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;append&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;stu_list&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;ran&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# 把已经点过名的学生从旧的列表中删除&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    stu_list&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;pop&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;ran&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;被点名的学生：&#39;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;,&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;join&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;dm_stu&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;3、给定数列 1, 1, 1, 3, 5, 9, 17, …，从第 4 项开始，每项都是前 3 项的和。求第 20190324 项的最后 4 位数字。（20 分）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;俺忘记了，知道的朋友可以写在评论区喔&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;三-️注意事项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-️注意事项&#34;&gt;#&lt;/a&gt; 三、❗️注意事项&lt;/h1&gt;
+&lt;p&gt;1. 仔细审题，把题目要求理解准确；&lt;br /&gt;
+2. 请注意按照页面的设计要求来进行页面的设计；&lt;br /&gt;
+3. 请注意代码的书写、命名规范和适当的注释。&lt;/p&gt;
+</content>
+        <category term="练习" scheme="http://example.com/categories/%E7%BB%83%E4%B9%A0/" />
+        <category term="作业" scheme="http://example.com/categories/%E7%BB%83%E4%B9%A0/%E4%BD%9C%E4%B8%9A/" />
+        <updated>2021-09-23T11:00:04.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2021/09/22/MySQL%E7%BB%83%E4%B9%A0/</id>
         <title>MySQL练习</title>
@@ -1062,26 +1680,6 @@
         <updated>2021-09-17T09:00:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</id>
-        <title>CSS 背景样式和文本样式</title>
-        <link rel="alternate" href="http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;css-背景样式和文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景样式和文本样式&#34;&gt;#&lt;/a&gt; CSS 背景样式和文本样式&lt;/h2&gt;
-&lt;h3 id=&#34;css-背景属性background&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景属性background&#34;&gt;#&lt;/a&gt; CSS 背景属性（background）&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2uuD&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2uuD.png&#34; alt=&#34;hj2uuD.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;css-文本属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-文本属性&#34;&gt;#&lt;/a&gt; CSS 文本属性&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2D5n&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2D5n.png&#34; alt=&#34;hj2D5n.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;css3-新增常用标签简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css3-新增常用标签简介&#34;&gt;#&lt;/a&gt; CSS3 新增常用标签简介&lt;/h3&gt;
-&lt;p&gt;​	CSS3 是 CSS 技术的升级版本，CSS3 语言开发是朝着&lt;strong&gt;模块化发展&lt;/strong&gt;；网络浏览器也还将继续支持 CSS2。&lt;strong&gt;CSS3 主要的影响是将可以使用新的可用的选择器和属性&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;・圆角边框：border-radius&lt;/p&gt;
-&lt;p&gt;・边框阴影：box-shadow&lt;/p&gt;
-&lt;p&gt;・背景图片的尺寸：background-size&lt;/p&gt;
-&lt;p&gt;・文本阴影：text-shadow&lt;/p&gt;
-</content>
-        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
-        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
-        <updated>2021-08-20T09:02:32.000Z</updated>
-    </entry>
-    <entry>
         <id>http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</id>
         <title>DIV块级元素/span行内元素</title>
         <link rel="alternate" href="http://example.com/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/"/>
@@ -1096,45 +1694,6 @@
         <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
         <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
         <category term="div" scheme="http://example.com/tags/div/" />
-        <updated>2021-08-20T09:02:32.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2021/08/20/css%E9%80%89%E6%8B%A9%E5%99%A8/</id>
-        <title>CSS选择器</title>
-        <link rel="alternate" href="http://example.com/2021/08/20/css%E9%80%89%E6%8B%A9%E5%99%A8/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;css选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css选择器&#34;&gt;#&lt;/a&gt; css 选择器&lt;/h2&gt;
-&lt;h4 id=&#34;什么是css选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是css选择器&#34;&gt;#&lt;/a&gt; 什么是 CSS 选择器&lt;/h4&gt;
-&lt;p&gt;“选择器”&lt;strong&gt; 指明&lt;/strong&gt; {} 中的 “样式”&lt;strong&gt; 作用对象&lt;/strong&gt;，也就是 “样式” 作用于网页中的哪些元素。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj6BU1&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj6BU1.md.png&#34; alt=&#34;hj6BU1.md.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;css选择器分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css选择器分类&#34;&gt;#&lt;/a&gt; css 选择器分类&lt;/h3&gt;
-&lt;h4 id=&#34;标签选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签选择器&#34;&gt;#&lt;/a&gt; 标签选择器&lt;/h4&gt;
-&lt;p&gt;概念：&lt;strong&gt;标签选择器&lt;/strong&gt;是指用 HTML 标签名称作为&lt;strong&gt;选择器&lt;/strong&gt;，按&lt;strong&gt;标签名称&lt;/strong&gt;分类，为页面中&lt;strong&gt;某一类标签&lt;/strong&gt;指定统一的&lt;strong&gt; CSS 样式&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;标签名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;h1&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; red&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; blue&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;类选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类选择器&#34;&gt;#&lt;/a&gt; 类选择器&lt;/h4&gt;
-&lt;p&gt;概念：&lt;strong&gt;类选择器&lt;/strong&gt;使用 **“.”（英文点号）&lt;strong&gt;进行标识，后面紧跟&lt;/strong&gt;类名 **。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;.类名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;.center&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;text-align&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; center&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;id选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#id选择器&#34;&gt;#&lt;/a&gt; ID 选择器&lt;/h4&gt;
-&lt;p&gt;概念：： &lt;strong&gt;id 选择器&lt;/strong&gt;使用 **“#” 进行标识 **，后面紧跟&lt;strong&gt; id 名&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;#id名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;#center&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;text-align&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; center&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;通配符选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#通配符选择器&#34;&gt;#&lt;/a&gt; 通配符选择器&lt;/h4&gt;
-&lt;p&gt;概念：&lt;strong&gt;通配符选择器&lt;/strong&gt;用 “*” 号表示，它是所有选择器中作用范围最广的，&lt;strong&gt;能匹配页面中所有的元素&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;padding：0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token property&#34;&gt;margin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;选择器集合&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择器集合&#34;&gt;#&lt;/a&gt; 选择器集合&lt;/h4&gt;
-&lt;p&gt;概念：&lt;strong&gt;选择器集合&lt;/strong&gt;使用&lt;strong&gt;几个选择器共用样式&lt;/strong&gt;，选择器之间用&lt;strong&gt;英文，隔开&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;选择器1,选择器2,选择器3,&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;属性1:属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 属性2:属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 属性3:属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;. &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;a,h1,p&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;padding：0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    	 &lt;span class=&#34;token property&#34;&gt;margin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    	&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;后代择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后代择器&#34;&gt;#&lt;/a&gt; 后代择器&lt;/h4&gt;
-&lt;p&gt;概念：&lt;strong&gt;后代选择器&lt;/strong&gt;对&lt;strong&gt;包含在自己里面的标签&lt;/strong&gt;进行样式设置。父子之间&lt;strong&gt;空格&lt;/strong&gt;链接。&lt;/p&gt;
-&lt;p&gt;基本语法格式：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;父选择器 子选择器&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;... &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
-&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;table tr td .wyx&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;red&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
-        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
-        <category term="css" scheme="http://example.com/tags/css/" />
         <updated>2021-08-20T09:02:32.000Z</updated>
     </entry>
     <entry>
@@ -1171,6 +1730,65 @@
 &lt;p&gt;&lt;strong&gt;概念：&lt;/strong&gt; &lt;strong&gt;导入式&lt;/strong&gt;针对外部样式表文件。对 HTML 头部文档应用 &lt;code&gt;style&lt;/code&gt; &lt;strong&gt; 标签&lt;/strong&gt;，并在 &lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; &lt;strong&gt; 标签&lt;/strong&gt;内的开头处使用 &lt;code&gt;@import&lt;/code&gt; &lt;strong&gt; 语句&lt;/strong&gt;，即可导入外部样式表文件。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;基本语法格式如下：&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;lt;style type=&lt;span class=&#34;token string&#34;&gt;&#34;text/css&#34;&lt;/span&gt; &gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token atrule&#34;&gt;&lt;span class=&#34;token rule&#34;&gt;@import&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token url&#34;&gt;&lt;span class=&#34;token function&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;css文件路径&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/span&gt;或&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token atrule&#34;&gt;&lt;span class=&#34;token rule&#34;&gt;@import&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;css文件路径&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;/* 在此还可以存放其他 CSS 样式 */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;lt;/style&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
+        <category term="css" scheme="http://example.com/tags/css/" />
+        <updated>2021-08-20T09:02:32.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</id>
+        <title>CSS 背景样式和文本样式</title>
+        <link rel="alternate" href="http://example.com/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;css-背景样式和文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景样式和文本样式&#34;&gt;#&lt;/a&gt; CSS 背景样式和文本样式&lt;/h2&gt;
+&lt;h3 id=&#34;css-背景属性background&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-背景属性background&#34;&gt;#&lt;/a&gt; CSS 背景属性（background）&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2uuD&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2uuD.png&#34; alt=&#34;hj2uuD.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;css-文本属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css-文本属性&#34;&gt;#&lt;/a&gt; CSS 文本属性&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj2D5n&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj2D5n.png&#34; alt=&#34;hj2D5n.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;css3-新增常用标签简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css3-新增常用标签简介&#34;&gt;#&lt;/a&gt; CSS3 新增常用标签简介&lt;/h3&gt;
+&lt;p&gt;​	CSS3 是 CSS 技术的升级版本，CSS3 语言开发是朝着&lt;strong&gt;模块化发展&lt;/strong&gt;；网络浏览器也还将继续支持 CSS2。&lt;strong&gt;CSS3 主要的影响是将可以使用新的可用的选择器和属性&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;・圆角边框：border-radius&lt;/p&gt;
+&lt;p&gt;・边框阴影：box-shadow&lt;/p&gt;
+&lt;p&gt;・背景图片的尺寸：background-size&lt;/p&gt;
+&lt;p&gt;・文本阴影：text-shadow&lt;/p&gt;
+</content>
+        <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
+        <updated>2021-08-20T09:02:32.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2021/08/20/css%E9%80%89%E6%8B%A9%E5%99%A8/</id>
+        <title>CSS选择器</title>
+        <link rel="alternate" href="http://example.com/2021/08/20/css%E9%80%89%E6%8B%A9%E5%99%A8/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;css选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css选择器&#34;&gt;#&lt;/a&gt; css 选择器&lt;/h2&gt;
+&lt;h4 id=&#34;什么是css选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是css选择器&#34;&gt;#&lt;/a&gt; 什么是 CSS 选择器&lt;/h4&gt;
+&lt;p&gt;“选择器”&lt;strong&gt; 指明&lt;/strong&gt; {} 中的 “样式”&lt;strong&gt; 作用对象&lt;/strong&gt;，也就是 “样式” 作用于网页中的哪些元素。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/hj6BU1&#34;&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/09/10/hj6BU1.md.png&#34; alt=&#34;hj6BU1.md.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;css选择器分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#css选择器分类&#34;&gt;#&lt;/a&gt; css 选择器分类&lt;/h3&gt;
+&lt;h4 id=&#34;标签选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标签选择器&#34;&gt;#&lt;/a&gt; 标签选择器&lt;/h4&gt;
+&lt;p&gt;概念：&lt;strong&gt;标签选择器&lt;/strong&gt;是指用 HTML 标签名称作为&lt;strong&gt;选择器&lt;/strong&gt;，按&lt;strong&gt;标签名称&lt;/strong&gt;分类，为页面中&lt;strong&gt;某一类标签&lt;/strong&gt;指定统一的&lt;strong&gt; CSS 样式&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;标签名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;h1&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; red&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; blue&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;类选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类选择器&#34;&gt;#&lt;/a&gt; 类选择器&lt;/h4&gt;
+&lt;p&gt;概念：&lt;strong&gt;类选择器&lt;/strong&gt;使用 **“.”（英文点号）&lt;strong&gt;进行标识，后面紧跟&lt;/strong&gt;类名 **。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;.类名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;.center&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;text-align&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; center&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;id选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#id选择器&#34;&gt;#&lt;/a&gt; ID 选择器&lt;/h4&gt;
+&lt;p&gt;概念：： &lt;strong&gt;id 选择器&lt;/strong&gt;使用 **“#” 进行标识 **，后面紧跟&lt;strong&gt; id 名&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;#id名&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;#center&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;text-align&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; center&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;通配符选择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#通配符选择器&#34;&gt;#&lt;/a&gt; 通配符选择器&lt;/h4&gt;
+&lt;p&gt;概念：&lt;strong&gt;通配符选择器&lt;/strong&gt;用 “*” 号表示，它是所有选择器中作用范围最广的，&lt;strong&gt;能匹配页面中所有的元素&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;padding：0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token property&#34;&gt;margin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;选择器集合&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择器集合&#34;&gt;#&lt;/a&gt; 选择器集合&lt;/h4&gt;
+&lt;p&gt;概念：&lt;strong&gt;选择器集合&lt;/strong&gt;使用&lt;strong&gt;几个选择器共用样式&lt;/strong&gt;，选择器之间用&lt;strong&gt;英文，隔开&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;选择器1,选择器2,选择器3,&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;属性1:属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 属性2:属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; 属性3:属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;. &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;a,h1,p&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;padding：0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    	 &lt;span class=&#34;token property&#34;&gt;margin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;0px&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    	&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;后代择器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后代择器&#34;&gt;#&lt;/a&gt; 后代择器&lt;/h4&gt;
+&lt;p&gt;概念：&lt;strong&gt;后代选择器&lt;/strong&gt;对&lt;strong&gt;包含在自己里面的标签&lt;/strong&gt;进行样式设置。父子之间&lt;strong&gt;空格&lt;/strong&gt;链接。&lt;/p&gt;
+&lt;p&gt;基本语法格式：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;父选择器 子选择器&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;属性1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值2&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token property&#34;&gt;属性3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;属性值3&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;... &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;例子：&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;figcaption data-lang=&#34;CSS&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token selector&#34;&gt;table tr td .wyx&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token property&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;red&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
         <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/" />
         <category term="HTML/CSS笔记" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/HTML-CSS%E7%AC%94%E8%AE%B0/" />
         <category term="css" scheme="http://example.com/tags/css/" />
